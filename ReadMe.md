@@ -9,5 +9,3 @@ For both programs the following commands are to be run in the terminal:
 
 # Documentation
 _cps2004 Documentation.pdf_ contains the report about the assignment.
-
-Both programs contain their own text files that are required to read from while executing.
