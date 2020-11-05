@@ -1,0 +1,14 @@
+---NEW ORDER---
+ZeroTre	delivery
+Ordered Items:capricciosa	6.5euros
+capricciosa	6.5euros
+Total Order Price13.0
+
+---NEW ORDER---
+ZeroTre	delivery
+Ordered Items:chips	1.5euros
+capricciosa	6.5euros
+Total Order Price8.0
+
+Restaurant with highest revenue is: ZeroTre
+Revenue: 21.0
