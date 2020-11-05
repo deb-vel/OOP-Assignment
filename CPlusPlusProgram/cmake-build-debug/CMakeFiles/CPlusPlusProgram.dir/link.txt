@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CPlusPlusProgram.dir/main.cpp.o CMakeFiles/CPlusPlusProgram.dir/Animal.cpp.o  -o CPlusPlusProgram 

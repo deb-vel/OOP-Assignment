@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jonvel/Assignment OOP/CPlusPlusProgram/Animal.h
+string
+-
+
+/home/jonvel/Assignment OOP/CPlusPlusProgram/BST.h
+Animal.h
+/home/jonvel/Assignment OOP/CPlusPlusProgram/Animal.h
+iostream
+-
+
+/home/jonvel/Assignment OOP/CPlusPlusProgram/main.cpp
+iostream
+-
+BST.h
+/home/jonvel/Assignment OOP/CPlusPlusProgram/BST.h
+fstream
+/home/jonvel/Assignment OOP/CPlusPlusProgram/fstream
+Animal.h
+/home/jonvel/Assignment OOP/CPlusPlusProgram/Animal.h
+
